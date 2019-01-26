@@ -1,2 +1,1 @@
-# C-projects
-projects made by me
+Simple programs in C and C++
